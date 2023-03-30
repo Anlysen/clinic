@@ -77,3 +77,199 @@ header{
 }
 
 
+
+
+
+.row{
+    background: #1FA181;
+    width: 1920px;
+    height: 43px;
+}
+
+.link_1{
+    float: left;
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    display: block;
+    padding: 13px 0 0 30px;
+}
+
+
+
+
+
+.clinic_block {
+    width: 1920px;
+    background: #F8FBFA;
+    display: flex;
+}
+
+.block_1 {
+    float: left;
+    margin: 110px 0 0 80px;
+}
+
+.text_clinic {
+    color:#364844;
+    font-size: 36px;
+    width: 306px;
+    height: 141px;
+}
+
+.text_lorem {
+    color: #364844;
+    font-size: 16px;
+    width: 280px;
+    height: 72px;
+}
+
+.img{
+    width: 785px;
+    height: 420px;
+}
+
+.block_2 {
+    width: 785px;
+    height: 420px;
+    position: relative;
+    margin: 0 0 0 130px;
+}
+
+
+
+
+
+.checkup_block {
+    width: 1000px;
+    height: 350px;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+.check_list {
+    background: #E2F0EF;
+    width: 390px;
+}
+
+.check_text {
+    font-size: 25px;
+    color: #364844;
+    margin: 51px 0 0 40px;
+}
+
+.men_text {
+    color: #364844;
+    font-size: 13px;
+    margin: 5px 0 0 40px;
+}
+
+.dot_pic {
+    float: left;
+    margin: 4px 7px 0 40px;
+}
+
+.doc_pic{
+    width: 600px;
+    height: 350px;
+}
+
+li{
+    color: #364844;
+    font-size: 14px;
+    margin-bottom: 13px;
+}
+
+.discount_text {
+    color: #364844;
+    font-size: 16px;
+    float: left;
+    margin: 0 8px 0 40px;
+}
+
+.oldprice_text {
+    color: #868686;
+    text-decoration-line: line-through;
+    font-size: 15px;
+}
+
+.btn_1 {
+    background: #0DBC91;
+    border-radius: 50px;
+    border: none;
+    width: 140px;
+    height: 34px;
+    cursor: pointer;
+    margin: 0 10px 0 -95px;
+}
+
+.apmt_text1 {
+    color: #FFFFFF;
+    font-size: 14px;
+    text-align: center;
+}
+
+.btn_2{
+    border: 1px solid #0DBC91;
+    border-radius: 50px;
+    width: 140px;
+    height: 34px;
+    cursor: pointer;
+    margin-top: 24px;
+}
+
+.apmt_text2 {
+    color: #0DBC91;
+    font-size: 14px;
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    margin-top: 18px;
+}
+
+.check_pic {
+}
+
+.list{
+    margin: 40px 0 0 500px;
+}
+
+
+
+
+
+footer{
+    width: 1920px;
+    height: 100px;
+    background: #08664F;
+    margin-top: 100px;
+    display: flex;
+}
+
+.logo_2 {
+    float: left;
+    margin: 35px 0 0 30px;
+}
+
+.link{
+    color: #FFFFFF;
+    font-size: 16px;
+    text-decoration: none;
+    float: left;
+    margin: 40px 0 0 30px;
+}
+
+.links{
+    margin: 0 0 0 156px;
+}
+
+.icons {
+    margin: 33px 0 0 155px;
+}
+
+.icon {
+    margin-left: 15px;
+}
