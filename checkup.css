@@ -4,7 +4,7 @@
 }
 
 header{
-    width: 1920px;
+    width: 1301px;
     height: 67px;
 }
 
@@ -82,7 +82,7 @@ header{
 
 .row{
     background: #1FA181;
-    width: 1920px;
+    width: 1301px;
     height: 43px;
 }
 
@@ -100,7 +100,7 @@ header{
 
 
 .clinic_block {
-    width: 1920px;
+    width: 1301px;
     background: #F8FBFA;
     display: flex;
 }
@@ -242,7 +242,7 @@ ul{
 
 
 footer{
-    width: 1920px;
+    width: 1301px;
     height: 100px;
     background: #08664F;
     margin-top: 100px;
